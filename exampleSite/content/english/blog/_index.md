@@ -1,5 +1,5 @@
 ---
-title: Octavus is go!
+title: Octavus Blog
 description: ''
 bg_image: images/featue-bg.jpg
 
