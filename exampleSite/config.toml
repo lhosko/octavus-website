@@ -12,26 +12,6 @@ copyright = "Copyright &copy; 2020 [Octavus](https://octavus.com.au) All Rights 
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-#[[Languages.en.menu.footer]]
-#URL = "about"
-#name = "About"
-#weight = 1
-#[[Languages.en.menu.footer]]
-#URL = "project"
-#name = "Project"
-#weight = 2
-#[[Languages.en.menu.footer]]
-#URL = "service"
-#name = "Service"
-#weight = 3
-#[[Languages.en.menu.footer]]
-#URL = "pricing"
-#name = "Pricing"
-#weight = 4
-#[[Languages.en.menu.footer]]
-#URL = "faq"
-#name = "FAQ"
-#weight = 5
 [[Languages.en.menu.footer]]
 URL = "/"
 name = "Home"
@@ -56,30 +36,6 @@ weight = 2
 URL = "contact"
 name = "Contact"
 weight = 3
-#[[Languages.en.menu.main]]
-#URL = "about"
-#name = "About"
-#weight = 2
-#[[Languages.en.menu.main]]
-#URL = "project"
-#name = "Project"
-#weight = 3
-#[[Languages.en.menu.main]]
-#hasChildren = true
-#name = "Pages"
-#weight = 5
-#[[Languages.en.menu.main]]
-#URL = "faq"
-#name = "FAQ"
-#parent = "Pages"
-#[[Languages.en.menu.main]]
-#URL = "pricing"
-#name = "Pricing"
-#parent = "Pages"
-#[[Languages.en.menu.main]]
-#URL = "service"
-#name = "Service"
-#parent = "Pages"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
@@ -210,20 +166,5 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
+link = "https://www.linkedin.com/in/louis-hoskinson-a4403033/"
