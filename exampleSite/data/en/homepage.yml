@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/octopus.jpg
   bg_overlay: true
   title: Modern Network <br/> & Security Solutions
   content: Cloud native, secure, ISM compliant, modern ...
