@@ -40,6 +40,12 @@ portfolio:
     link: project
 service:
   enable: true
+  title: Test
+  description: Test
+  service_item:
+  - icon: test
+    name: test
+    content: test
 cta:
   enable: false
   bg_image: images/call-to-action-bg.jpg
