@@ -18,7 +18,7 @@ about:
   funfacts:
   - name: z-scaler
     count: ''
-    icon: zscaler.jpg
+    icon: zscaler.png
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
