@@ -114,7 +114,7 @@ email = "info@octavus.com.au"
 google_analitycs_id = ""
 location = "2/43 Boobialla St O'Connor ACT 2602"
 logo = "images/octopus-logo.jpg"
-logo_width = "80px"
+logo_width = "65px"
 mobile = "0407 100 421"
 multi_author = false
 [params.cookies]
