@@ -7,7 +7,7 @@ banner:
   content: Cloud native, secure, modern ...
   button:
     enable: true
-    label: Contact Us :)
+    label: Contact Us
     link: contact
 about:
   enable: false
