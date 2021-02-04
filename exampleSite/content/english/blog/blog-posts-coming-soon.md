@@ -2,7 +2,7 @@
 author = ""
 bg_image = ""
 categories = ["announcement"]
-date = ""
+date = 2021-02-03T13:00:00Z
 description = ""
 image = ""
 tags = []
