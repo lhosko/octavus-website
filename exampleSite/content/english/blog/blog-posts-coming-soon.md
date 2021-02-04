@@ -1,7 +1,7 @@
 +++
 author = ""
 bg_image = ""
-categories = []
+categories = ["announcement"]
 date = ""
 description = ""
 image = ""
