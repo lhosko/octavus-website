@@ -108,7 +108,7 @@ unsafe = true
 home = ["HTML"]
 [params]
 author = "Louis Hoskinson"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/f/xoqpblnj"
 description = "Modern Topologies"
 email = "info@octavus.com.au"
 google_analitycs_id = ""
