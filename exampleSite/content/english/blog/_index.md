@@ -1,6 +1,6 @@
 ---
 title: Octavus Blog
 description: ''
-bg_image: "/images/fibre.jpg"
+bg_image: "/images/fiber.webp"
 
 ---
